@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 memo.txt
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> a40bd61ee66ec57cab44b083e0e5db9f6685cc2d
