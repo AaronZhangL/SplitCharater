@@ -1,5 +1,5 @@
 SplitCharater
 =============
-This is a test project.
+This is a test project./n
 Hello World.
 test
