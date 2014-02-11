@@ -1,4 +1,4 @@
 SplitCharater
 =============
-This is a test project.\n
+This is a test project.
 Hello World.
