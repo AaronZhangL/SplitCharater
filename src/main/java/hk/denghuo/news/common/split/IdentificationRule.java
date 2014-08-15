@@ -14,7 +14,7 @@ public class IdentificationRule {
 	/**
 	 * 整句分隔标点符号
 	 */
-	private static String SPLIT_RULE_SENTENCE = "。|，|,|！|…|……|!|！|？|\\?";
+	private static String SPLIT_RULE_SENTENCE = "。|…|……|!|！|？|\\?";
 	
 	public static String getSplitRuleSentence() {
 		return SPLIT_RULE_SENTENCE;
@@ -64,4 +64,8 @@ public class IdentificationRule {
 	 * 
 	 */
 	private static String SPLIT_CHAR_HAS = "有";
+	
+
+
+
 }
